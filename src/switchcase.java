@@ -10,7 +10,7 @@ public class switchcase {
         int num2 = scanner.nextInt();
 
         System.out.println("Action");
-        String action = scanner.nextLine();
+        String action = scanner.next();
 
         float res;
         switch (action) {
